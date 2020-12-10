@@ -6,9 +6,6 @@
   * Cloud computing:cloud:
   * Mobile app development:iphone:
   
-
-	
-
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusar6701&langs_count=12&layout=compact&theme=radical&title_color=8E2DE2&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
@@ -54,6 +51,9 @@ Here are some ideas to get you started:
 <!--* :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)-->
 
 * Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/tusar-mahapatra-2490a21a6) :sparkler:
+* Connect with me on DEV <a href="https://dev.to/tusar6701">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="TUSAR RANJAN MAHAPATRA's DEV Profile" height="30" width="30">
+</a>
 
 
 ## Tech Stack :computer:
