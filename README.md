@@ -8,10 +8,10 @@
   
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusar6701&langs_count=12&layout=compact&theme=radical&title_color=8E2DE2&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusarmahapatra&langs_count=12&layout=compact&theme=radical&title_color=8E2DE2&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Tushar's Github Stats](https://github-readme-stats.vercel.app/api?username=Tusar6701&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) 
+![Tushar's Github Stats](https://github-readme-stats.vercel.app/api?username=tusarmahapatra&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) 
 <br>
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusar6701&theme=radical&title_color=8E2DE2&text_color=fff)
 <br>-->
