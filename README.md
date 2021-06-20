@@ -1,6 +1,6 @@
 <h1 align="center"> Hi There 👋 </h1>
 
-* I am [Tusar Ranjan Mahapatra](https://www.linkedin.com/in/tusar-mahapatra-2490a21a6/) :smiley:	 <br>
+* I am [Tusar Ranjan Mahapatra](tusarmahapatra.github.io) :smiley:	 <br>
 * Currently I am a third year student from KIIT, Bhubaneswar in Computer Science :computer:
 * Interests and experience :
   * Cloud computing:cloud:
