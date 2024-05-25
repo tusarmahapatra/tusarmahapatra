@@ -11,7 +11,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusarmahapatra&langs_count=12&layout=compact&theme=radical&title_color=8E2DE2&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Tushar's Github Stats](https://github-readme-stats.vercel.app/api?username=tusarmahapatra&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) 
 
 [![Tushar's Github Stats](https://github-readme-stats.vercel.app/api?username=tusarmahapatra\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 <br>
