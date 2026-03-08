@@ -1,6 +1,6 @@
 <h1 align="center"> Hi There 👋 </h1>
 
-* I am [Tusar Ranjan Mahapatra](https://tusarmahapatra.github.io/) :smiley: <br>
+* I am [Tusar Ranjan Mahapatra](https://tusarmahapatra.github.io/tusar-portfolio/) :smiley: <br>
 * Senior Software Engineer specializing in Backend Systems & AI/ML Infrastructure at **Providence India**.
 * Interests and experience:
   * Distributed Systems & Scalable APIs
